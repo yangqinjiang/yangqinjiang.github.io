@@ -1,6 +1,6 @@
 # 杨钦江的简历
 基本信息|||||||
---|:--:|--:|--:|--:|--:|--:|--:
+--|:--:|--:|--:|--:|--:|--:|---:
 <img src="https://avatars2.githubusercontent.com/u/1914373?s=460&v=4" width="50px"/>|杨钦江 |-|30岁(1989)   | 男   | 本科   | 6年经验 |15976543860/yangqinjiang@qq.com
 ### 社交平台: https://github.com/yangqinjiang / https://yangqinjiang.github.io/resume.html
 ## 求职意向: **PHP**或**Golang**工程师
