@@ -9,6 +9,7 @@
 编程语言或其他能力|掌握度(**以10个#为满格**)|备注
 ---|:--|:---
 PHP|######|包括web框架laravel,thinkphp等
+swoole|######|
 javascript|######|理解浏览器的js语法解析的流程,主流前端框架vue.js等
 golang|######|掌握beego框架,有(自己的)实际项目的API开发经验
 docker|#####|应用到自己的小项目上,结合k8s(kubernetes)实现**单机版的集群**
